@@ -1,0 +1,18 @@
+
+1720199453188:::1 GET: /api/users
+
+1720199476514:::1 GET: /api/users
+
+1720199488018:::1 GET: /api/users/6687cbca0861aa3cbcfb2ce5
+
+1720199502694:::1 POST: /api/users
+
+1720199507632:::1 GET: /api/users
+
+1720199512266:::1 GET: /api/users/6687cbca0861aa3cbcfb2ce5
+
+1720199524830:::1 GET: /api/users/6688294e5f20bf7ecc7c18fc
+
+1720199535396:::1 DELETE: /api/users/6688294e5f20bf7ecc7c18fc
+
+1720199540776:::1 GET: /api/users
